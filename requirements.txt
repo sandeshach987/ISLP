@@ -6,3 +6,4 @@ pyjanitor
 ipykernel
 ISLP
 seaborn
+statsmodel
