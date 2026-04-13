@@ -31,18 +31,6 @@ This repository contains all the applied solutions and lab from ISLP book.
 - [ ] **Chapter 7: Moving Beyond Linearity** 
 
 
-- [ ] **Chapter 4: Classification** 
-
-
-- [ ] **Chapter 5: Resampling Methods** 
-
-
-- [ ] **Chapter 6: Linear Model Selection & Regularization** 
-
-
-- [ ] **Chapter 7: Moving Beyond Linearity** 
-
-
 - [ ] **Chapter 8: Tree-Based Methods**
 
 
