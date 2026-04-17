@@ -16,10 +16,13 @@ This repository contains all the applied solutions and lab from ISLP book.
 - [x] **Chapter 3: Linear Regression** —  *03/14*
 
 
+- [x] **Chapter 4: Classification** —  *04/17*
+
+
+
+
 ### 🔜 Upcoming
 
-
-- [ ] **Chapter 4: Classification** 
 
 
 - [ ] **Chapter 5: Resampling Methods** 
