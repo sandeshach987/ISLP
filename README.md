@@ -19,13 +19,11 @@ This repository contains all the applied solutions and lab from ISLP book.
 - [x] **Chapter 4: Classification** —  *04/17*
 
 
+- [x] **Chapter 5: Resampling Methods** — *04/25*
+
 
 
 ### 🔜 Upcoming
-
-
-
-- [ ] **Chapter 5: Resampling Methods** 
 
 
 - [ ] **Chapter 6: Linear Model Selection & Regularization** 
